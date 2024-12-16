@@ -1,6 +1,6 @@
 # Overview 👨🏻‍💻
 
-About the code:
+This program generates a strong, random password based on the user's specified length, ensuring a good mix of lowercase, uppercase, digits, and special characters, and prints the result in a random order. 🐍
 
 * Emojis: [Emojipedia](https://emojipedia.org/)
 * [Code Preview]()
@@ -11,4 +11,4 @@ About the code:
 * Python 
 * Visual Studio Code 🔧
 * Git & GitHub
-* [Glitch](https://glitch.com/)
+* [Python Compiler(for demo purposes)](https://www.programiz.com/)
